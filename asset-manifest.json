@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ravenous-react/static/css/main.d1b05096.chunk.css",
+    "main.js": "/ravenous-react/static/js/main.b74418b6.chunk.js",
+    "main.js.map": "/ravenous-react/static/js/main.b74418b6.chunk.js.map",
+    "runtime-main.js": "/ravenous-react/static/js/runtime-main.93f144f1.js",
+    "runtime-main.js.map": "/ravenous-react/static/js/runtime-main.93f144f1.js.map",
+    "static/js/2.c90d963f.chunk.js": "/ravenous-react/static/js/2.c90d963f.chunk.js",
+    "static/js/2.c90d963f.chunk.js.map": "/ravenous-react/static/js/2.c90d963f.chunk.js.map",
+    "index.html": "/ravenous-react/index.html",
+    "precache-manifest.5d36a23dc2e20fba53ba99409fa7cb8f.js": "/ravenous-react/precache-manifest.5d36a23dc2e20fba53ba99409fa7cb8f.js",
+    "service-worker.js": "/ravenous-react/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/ravenous-react/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.c90d963f.chunk.js.LICENSE": "/ravenous-react/static/js/2.c90d963f.chunk.js.LICENSE",
+    "static/media/logo.svg": "/ravenous-react/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.93f144f1.js",
+    "static/js/2.c90d963f.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.b74418b6.chunk.js"
+  ]
+}
