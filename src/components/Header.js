@@ -1,19 +1,12 @@
 import React from 'react';
+import './Header.css';
 
 function Header(){
     return (
     <header className="App-header">
-        <p>
-          Ravenous project in progres...
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+        <h1>
+          Ravenous
+        </h1>
       </header>
       );
 }
